@@ -228,3 +228,5 @@ This work is dedicated to the public domain under the [CC0 1.0 Universal](LICENS
 <div align="center">
 <sub>Maintained by the community. If this list saved you a fraud headache, consider <a href="https://github.com/adops-tool/awesome-ad-fraud">starring the repo</a> and opening a PR with your favorite resource.</sub>
 </div>
+
+[![CC0](https://img.shields.io/badge/CC0-1.0-lightgrey?style=flat-square)](LICENSE)
