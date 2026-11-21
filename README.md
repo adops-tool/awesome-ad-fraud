@@ -1,6 +1,6 @@
-<div align="center">
+[![awesome-lead-generation](image/awesome-ad-fraud.png)](https://github.com/adops-tool/awesome-ad-fraud/pulls)
 
-# Awesome Ad Fraud
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
 
 **A curated, link-verified collection of open-source tools, datasets, standards, and primary research for detecting, measuring, and eliminating ad fraud and invalid traffic (IVT) in the digital advertising supply chain.**
 
