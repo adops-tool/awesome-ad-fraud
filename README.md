@@ -1,6 +1,6 @@
 <div align="center">
 
-# awesome-ad-fraud
+# Awesome Ad Fraud
 
 **A curated, link-verified collection of open-source tools, datasets, standards, and primary research for detecting, measuring, and eliminating ad fraud and invalid traffic (IVT) in the digital advertising supply chain.**
 
