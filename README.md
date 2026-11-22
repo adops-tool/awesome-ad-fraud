@@ -38,6 +38,7 @@ A curated collection of open-source tools, verification platforms, supply chain 
       - [Measurement, Creative Sandboxing & Accreditation](#measurement-creative-sandboxing--accreditation)
   - [Datasets, Benchmarks & Academic Research](#datasets-benchmarks--academic-research)
       - [Datasets & Open Intelligence Feeds](#datasets--open-intelligence-feeds)
+      - [Detection Libraries & Reproducible Pipelines](#detection-libraries--reproducible-pipelines)
       - [Landmark Papers, Studies & Enforcement](#landmark-papers-studies--enforcement)
   - [Browser Extensions & Inspection Tools](#browser-extensions--inspection-tools)
       - [Network & Waterfall Inspection](#network--waterfall-inspection)
@@ -59,6 +60,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [AdGuardSentinel](https://github.com/DuffyEthan/AdGuardSentinel) - Real-time publisher campaign anomaly detection using Isolation Forest models on TimescaleDB with a FastAPI and React dashboard.
 
+![github](image/alg_R.png) [ad_prox_dsp](https://github.com/nayan9229/ad_prox_dsp) - GoLang programmatic DSP covering OpenRTB, VAST, and native demand with built-in fraud-detection features alongside real-time bidding.
+
 ![github](image/alg_R.png) [AdTruth](https://github.com/papa-torb/adtruth) - Lightweight open-source JavaScript and ML tool that scores click fraud and bot traffic across Google, Meta, and TikTok ad campaigns.
 
 ![github](image/alg_R.png) [clickcutter](https://github.com/Xelessar/clickcutter) - Rule-based Google Ads click-fraud pipeline combining a GTM tracking beacon, Airflow scoring, and automated IP exclusions via the Google Ads API.
@@ -70,6 +73,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 ![github](image/alg_R.png) [SiteMind](https://github.com/SiteMindOpen/SiteMind) - Open-source counter-ad-fraud project built to analyze media investment traffic quality and filter suspicious ad interactions.
 
 ### Enterprise Ad Verification & IVT Platforms
+
+![web](image/alg_I.png) [Adloox](https://www.adloox.com) - MRC-accredited verification platform measuring viewability and sophisticated invalid traffic inside DV360, Meta, and Amazon DSP.
 
 ![web](image/alg_I.png) [Anura](https://www.anura.io) - TAG-certified ad fraud detection platform identifying bots, malware, click farms, and human fraud across web and lead-generation funnels.
 
@@ -83,6 +88,10 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![web](image/alg_I.png) [Integral Ad Science (IAS)](https://integralads.com) - MRC-accredited verification vendor measuring GIVT, SIVT, viewability, ad clutter, and MFA exposure across web, mobile, and CTV.
 
+![web](image/alg_I.png) [IQM](https://www.iqm.com) - Ad verification and optimisation platform measuring invalid traffic, viewability, and contextual suitability across video and CTV.
+
+![web](image/alg_I.png) [Peer39](https://www.peer39.com) - Pre-bid contextual and quality platform that added MRC-accredited ad verification for IVT and viewability to its suitability signals.
+
 ![web](image/alg_I.png) [Pixalate](https://www.pixalate.com) - MRC-accredited fraud intelligence and compliance platform specializing in programmatic, mobile in-app, and CTV invalid traffic measurement.
 
 ![web](image/alg_I.png) [Protected Media](https://www.protected.media) - MRC-accredited and TAG-certified ad verification platform detecting SIVT across display, video, mobile app, and CTV inventory.
@@ -94,6 +103,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 ![web](image/alg_I.png) [ClickCease](https://www.clickcease.com) - Automated click-fraud monitoring and IP exclusion tool for Google Ads, Microsoft Ads, and Meta campaigns.
 
 ![web](image/alg_I.png) [ClickGUARD](https://www.clickguard.com) - Rule-based and ML click-fraud protection platform automating IP and audience exclusions for PPC campaigns.
+
+![web](image/alg_I.png) [Fraud Blocker](https://fraudblocker.com) - Real-time click-fraud monitoring for Google and Meta Ads that scores traffic, fingerprints devices, and syncs IP exclusions.
 
 ![web](image/alg_I.png) [Lunio](https://www.lunio.ai) - Paid media traffic verification platform blocking bots and junk clicks across Google, Meta, Microsoft, and Performance Max campaigns.
 
@@ -123,6 +134,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [adstxtparser (PHP)](https://github.com/shakaran/adstxtparser) - Open-source PHP library implementing ads.txt file parsing and validation per the OpenRTB working group spec.
 
+![github](image/alg_R.png) [app-ads.txt crawler](https://github.com/ramimoshe/app-ads.txt) - Node.js npm crawler that fetches and normalizes app-ads.txt records for a domain according to IAB Tech Lab guidance.
+
 ![github](image/alg_R.png) [AppGoblin adscrawler](https://github.com/appgoblin-dev/adscrawler) - Open-source crawler discovering app-ads.txt files, developer domains, and ad SDK footprints across Google Play and the Apple App Store.
 
 ![github](image/alg_R.png) [go-adstxt](https://github.com/suzuken/go-adstxt) - Minimal, dependency-light ads.txt parser written in Go.
@@ -136,6 +149,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 ![github](image/alg_R.png) [Ads.txt Manager (10up)](https://github.com/10up/ads-txt) - WordPress plugin for creating, validating, and maintaining ads.txt and app-ads.txt files from the admin dashboard.
 
 ![web](image/alg_I.png) [ads.txt Guru](https://adstxt.guru/validator/) - Free web validator and API checking ads.txt, app-ads.txt, and sellers.json files for syntax errors, duplicates, and domain issues.
+
+![github](image/alg_R.png) [django-ads-txt](https://github.com/shahryorg/django-ads-txt) - Django application for composing, validating, and serving ads.txt content from the admin panel.
 
 ![web](image/alg_I.png) [Sellers.guide](https://sellers.guide) - Automated supply-chain auditing tool cross-referencing ads.txt declarations against sellers.json entries to flag unauthorized seats.
 
@@ -171,6 +186,10 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [crawler_detect (Ruby)](https://github.com/loadkpi/crawler_detect) - Ruby gem for identifying web crawlers, scrapers, and automated bots from user-agent strings.
 
+![github](image/alg_R.png) [crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Maintained JSON pattern list of declared bot and crawler user agents used to separate verification crawlers from fraud.
+
+![github](image/alg_R.png) [device-detector-js](https://github.com/etienne-martin/device-detector-js) - TypeScript port of Matomo's device detection database for parsing browser, OS, device, and bot signals from user agents.
+
 ![github](image/alg_R.png) [isbot (Go)](https://github.com/arp242/isbot) - Lightweight Go package for classifying HTTP bot and crawler user agents.
 
 ![github](image/alg_R.png) [isbot (JavaScript)](https://github.com/omrilotan/isbot) - JavaScript module detecting bots, crawlers, and spiders from HTTP user-agent patterns.
@@ -197,6 +216,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![web](image/alg_I.png) [DataDome](https://datadome.co) - Real-time bot, scraper, and AI-agent trust management platform with dedicated click-fraud protection.
 
+![github](image/alg_R.png) [fingerproxy](https://github.com/0x4D31/fingerproxy) - HTTPS reverse proxy that computes JA3, JA4, and Akamai HTTP/2 fingerprints and forwards them as headers for fraud rules.
+
 ![github](image/alg_R.png) [FireHOL IP Lists](https://github.com/firehol/blocklist-ipsets) - Aggregated, continuously updated IP blocklists covering known botnets, proxies, and abusive networks.
 
 ![github](image/alg_R.png) [human-verified-ai-agent](https://github.com/HumanSecurity/human-verified-ai-agent) - Open-source reference implementation by HUMAN Security using HTTP Message Signatures to authenticate verified AI agents.
@@ -205,9 +226,19 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [is-vpn](https://github.com/josephrocca/is-vpn) - Open-source utility checking whether an IP address belongs to a VPN or datacenter range using daily public feeds.
 
+![github](image/alg_R.png) [ja3](https://github.com/salesforce/ja3) - Original reference implementation and deployment methodology for JA3 TLS client fingerprints.
+
 ![github](image/alg_R.png) [JA4+](https://github.com/FoxIO-LLC/ja4) - Open network fingerprinting standard suite covering TLS, HTTP, QUIC, and TCP signals for identifying automated clients.
 
+![github](image/alg_R.png) [maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system combining sensors with curated blacklists of botnets, scanners, and abusive hosting.
+
 ![github](image/alg_R.png) [Nginx Bad Bot Detection](https://github.com/fabriziosalmi/patterns) - Automated bad-bot and OWASP CRS rule patterns for Nginx, Apache, Traefik, and HAProxy reverse proxies.
+
+![github](image/alg_R.png) [nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Maintained Nginx configuration and blocklists covering referrer spam, hostile user agents, and scanner traffic.
+
+![web](image/alg_I.png) [Vercel BotID](https://vercel.com/docs/botid) - Invisible browser challenge and request classification that tags verified-human traffic with headers for edge filtering.
+
+![github](image/alg_R.png) [X4BNet VPN lists](https://github.com/X4BNet/lists_vpn) - Automatically refreshed lists of VPN and hosted proxy IP ranges used to score network risk on ad requests.
 
 ### Evasion Research & Red-Teaming
 
@@ -217,11 +248,19 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [browsers-benchmark](https://github.com/techinz/browsers-benchmark) - Benchmark harness evaluating stealth browser engines against Cloudflare, DataDome, Akamai, and PerimeterX bot checks.
 
+![github](image/alg_R.png) [camoufox](https://github.com/daijro/camoufox) - Anti-detect Firefox build with patched fingerprints, used to test which browser-level signals current defences catch.
+
 ![github](image/alg_R.png) [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Source-patched stealth Chromium build designed for testing how fingerprint-hardened browsers evade detection checks.
+
+![github](image/alg_R.png) [curl_cffi](https://github.com/lexiforest/curl_cffi) - Python HTTP client that impersonates browser TLS and HTTP/2 fingerprints for probing transport-level bot detection.
 
 ![github](image/alg_R.png) [fingerprint-suite](https://github.com/apify/fingerprint-suite) - Open-source fingerprint generation and spoofing toolkit from Apify useful for red-teaming bot detection pipelines.
 
 ![github](image/alg_R.png) [httpcloak](https://github.com/sardanioss/httpcloak) - Go HTTP client replicating browser TLS/HTTP2 fingerprints (JA3/JA4) for testing transport-layer bot defenses.
+
+![github](image/alg_R.png) [nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Chrome DevTools Protocol automation framework that avoids WebDriver artefacts, succeeding undetected-chromedriver.
+
+![github](image/alg_R.png) [patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Patched Playwright build that removes automation leaks, giving detection teams a maintained evasion target.
 
 ![github](image/alg_R.png) [puppeteer-botcheck](https://github.com/prescience-data/puppeteer-botcheck) - Diagnostic test suite verifying which browser automation leaks are visible to client-side bot detectors.
 
@@ -230,6 +269,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 ![github](image/alg_R.png) [rebrowser-patches](https://github.com/rebrowser/rebrowser-patches) - Patches for Playwright and Puppeteer eliminating CDP and runtime leaks, illustrating modern headless evasion vectors.
 
 ![github](image/alg_R.png) [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python browser automation framework with stealth CDP mode used to benchmark anti-bot resilience.
+
+![github](image/alg_R.png) [tls-client](https://github.com/bogdanfinn/tls-client) - Go HTTP client that lets callers pick a browser TLS fingerprint profile when probing anti-bot endpoints.
 
 ![github](image/alg_R.png) [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Modified ChromeDriver binary patching automation indicators for red-teaming browser-based fraud defenses.
 
@@ -249,6 +290,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![web](image/alg_I.png) [GeoEdge](https://www.geoedge.com) - Omnichannel ad security and creative verification platform blocking auto-redirects, phishing, and cloaked malware across web, app, and CTV.
 
+![web](image/alg_I.png) [Malware Filter — URLhaus Filter](https://gitlab.com/malware-filter/urlhaus-filter) - Auto-generated blocklist of domains and IPs serving malware, applied to ad and landing-page redirect destinations.
+
 ![github](image/alg_R.png) [obfuscation-detector](https://github.com/HumanSecurity/obfuscation-detector) - AST-based analyzer by HUMAN Security identifying obfuscated JavaScript patterns common in malvertising and evasion payloads.
 
 ![github](image/alg_R.png) [restringer](https://github.com/HumanSecurity/restringer) - Open-source JavaScript deobfuscator from HUMAN Security for unpacking malicious ad scripts and cloaking payloads.
@@ -265,13 +308,19 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![web](image/alg_I.png) [Airbridge](https://www.airbridge.io) - Mobile and web attribution platform with SDK signature verification and anomaly detection against click flooding and SDK spoofing.
 
+![github](image/alg_R.png) [APKiD](https://github.com/rednaga/APKiD) - Static identifier for Android packers, protectors, and obfuscators used to triage apps suspected of SDK spoofing.
+
 ![github](image/alg_R.png) [AppGoblin](https://github.com/appgoblin-dev/appgoblin) - Open-source Android and iOS app analytics platform mapping mobile ad networks, tracking SDKs, and MMPs.
 
 ![web](image/alg_I.png) [AppsFlyer Protect360](https://www.appsflyer.com/products/fraud-protection/) - Mobile attribution fraud defense blocking fake installs, bots, click flooding, and SDK spoofing before and after attribution.
 
+![github](image/alg_R.png) [Exodus Privacy](https://github.com/Exodus-Privacy/exodus) - Platform and signature database auditing which advertising and tracking SDKs are embedded in Android applications.
+
 ![web](image/alg_I.png) [Kochava](https://www.kochava.com) - Omnichannel attribution and fraud console analyzing click-to-install time anomalies, device farms, and mobile traffic quality.
 
 ![web](image/alg_I.png) [Singular](https://www.singular.net) - Marketing measurement platform providing automated cost aggregation and mobile ad-fraud protection rules.
+
+![github](image/alg_R.png) [TrackerControl](https://github.com/TrackerControl/tracker-control-android) - Android app that logs and blocks per-app tracker and ad SDK traffic, exposing background impression and beacon activity.
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
 
@@ -301,6 +350,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ### Supply Chain & Auction Standards
 
+![github](image/alg_R.png) [AdCOM](https://github.com/InteractiveAdvertisingBureau/AdCOM) - Advertising Common Object Model specification supplying the domain layer and enumerations beneath OpenRTB 2.6 and 3.0.
+
 ![web](image/alg_I.png) [ads.cert 2.0](https://iabtechlab.com/standards/ads-cert/) - IAB Tech Lab protocol suite using DNS-published cryptographic keys to authenticate programmatic and CTV SSAI connections.
 
 ![github](image/alg_R.png) [adscert (Reference Implementation)](https://github.com/IABTechLab/adscert) - Official Go proof-of-concept implementation of the IAB Tech Lab Authenticated Connections protocol.
@@ -319,15 +370,25 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [Prebid Server](https://github.com/prebid/prebid-server) - Open-source server-side header bidding engine enforcing OpenRTB validation, schain propagation, and auction controls.
 
+![github](image/alg_R.png) [Prebid Server (Java)](https://github.com/prebid/prebid-server-java) - JVM implementation of Prebid Server running server-side header bidding auctions with OpenRTB validation and schain handling.
+
+![github](image/alg_R.png) [Prebid Universal Creative](https://github.com/prebid/prebid-universal-creative) - Single creative bundle that renders Prebid winning bids inside Google Ad Manager, AMP pages, and in-app webviews.
+
+![github](image/alg_R.png) [rtblint](https://github.com/aleksUIX/rtblint) - OpenRTB linter that validates 2.x bid requests and responses against versioned IAB schema snapshots.
+
 ![web](image/alg_I.png) [sellers.json (IAB Tech Lab)](https://iabtechlab.com/sellers-json/) - Machine-readable exchange registry enabling buyers to verify seller identities and intermediary relationships.
 
 ![github](image/alg_R.png) [SupplyChain Object (schain)](https://github.com/InteractiveAdvertisingBureau/openrtb/blob/master/supplychainobject.md) - OpenRTB extension recording every entity involved in selling or reselling a bid request for sellers.json cross-checking.
+
+![github](image/alg_R.png) [Trusted Server](https://github.com/IABTechLab/trusted-server) - IAB Tech Lab edge reverse proxy that issues first-party identifiers and runs auctions server-side at the CDN layer.
 
 ### Measurement, Creative Sandboxing & Accreditation
 
 ![web](image/alg_I.png) [Coalition for Better Ads](https://www.betterads.org) - Industry coalition defining ad-experience standards against intrusive formats, pop-ups, and abusive ad density.
 
 ![web](image/alg_I.png) [IAB Tech Lab Spiders & Bots](https://iabtechlab.com/standards/measurement/) - Authoritative industry registry of known crawlers, monitors, and bots excluded from billable ad measurement.
+
+![github](image/alg_R.png) [IAB Tech Lab Taxonomies](https://github.com/InteractiveAdvertisingBureau/Taxonomies) - Machine-readable content, audience, and ad-product taxonomies with ID mappings used for suitability and exclusion targeting.
 
 ![web](image/alg_I.png) [Media Rating Council (MRC)](https://mediaratingcouncil.org) - Independent auditing body setting GIVT/SIVT detection guidelines and accrediting ad verification vendors.
 
@@ -345,6 +406,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [VAST](https://github.com/InteractiveAdvertisingBureau/VAST) - Video Ad Serving Template specification governing video tracking beacons, quartile events, and SSAI verification.
 
+![github](image/alg_R.png) [vastlint](https://github.com/aleksUIX/vastlint) - VAST, VMAP, and DAAST validator that checks creative tags and wrapper chains against IAB rules.
+
 ![github](image/alg_R.png) [VAST-Tester](https://github.com/IABTechLab/VAST-Tester) - IAB Tech Lab testing utility for validating VAST video ad tags and tracking responses.
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
@@ -356,6 +419,10 @@ A curated collection of open-source tools, verification platforms, supply chain 
 ### Datasets & Open Intelligence Feeds
 
 ![github](image/alg_R.png) [ad-inventory-fraud-measurement](https://github.com/Yash-Vekaria/ad-inventory-fraud-measurement) - Measurement pipeline and dataset studying ads.txt/sellers.json misrepresentation and dark pooling across programmatic supply.
+
+![github](image/alg_R.png) [Disconnect tracking protection list](https://github.com/disconnectme/disconnect-tracking-protection) - Canonical classification file of ad and tracking domains behind Disconnect, Firefox, and Brave protection lists.
+
+![github](image/alg_R.png) [EasyList](https://github.com/easylist/easylist) - Community filter-list ecosystem of ad and tracker URL patterns widely reused as domain features in traffic-quality models.
 
 ![web](image/alg_I.png) [Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/ziya07/fraud-detection-dataset) - Small synthetic CPA click-fraud dataset useful for smoke-testing ML feature and evaluation pipelines.
 
@@ -369,6 +436,22 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [Tracker Radar Detector](https://github.com/duckduckgo/tracker-radar-detector) - Open-source crawler and analysis pipeline used to generate DuckDuckGo's Tracker Radar dataset.
 
+### Detection Libraries & Reproducible Pipelines
+
+*Anomaly-detection frameworks and published competition solutions for scoring click and impression streams.*
+
+![github](image/alg_R.png) [2018-Kaggle-AdTrackingFraud](https://github.com/ShawnyXiao/2018-Kaggle-AdTrackingFraud) - Silver-medal TalkingData solution documenting feature engineering and validation for the click-fraud benchmark dataset.
+
+![github](image/alg_R.png) [alibi-detect](https://github.com/SeldonIO/alibi-detect) - Library of outlier, drift, and adversarial detectors for scoring streaming impression and click feature vectors.
+
+![github](image/alg_R.png) [MIDAS](https://github.com/Stream-AD/MIDAS) - Streaming anomaly-detection framework for time-evolving graphs, demonstrated on ad-fraud and intrusion datasets.
+
+![github](image/alg_R.png) [MStream](https://github.com/Stream-AD/MStream) - Streaming anomaly-detection toolkit for time-evolving multi-aspect data with fraud detection examples.
+
+![github](image/alg_R.png) [PyOD](https://github.com/yzhao062/pyod) - Python toolkit of unsupervised outlier detectors commonly used to build first-pass traffic-scoring models.
+
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
+
 ### Landmark Papers, Studies & Enforcement
 
 ![web](image/alg_I.png) [ANA Programmatic Media Supply Chain Study (2023)](https://www.ana.net/content/show/id/pr-2023-06-programmaticstudy) - Log-level audit of $123M in programmatic spend finding 23% open-web waste and heavy MFA impression share.
@@ -376,6 +459,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 ![web](image/alg_I.png) [Detecting Click Fraud in Online Advertising (JMLR, 2014)](https://www.jmlr.org/papers/v15/oentaryo14a.html) - Oentaryo et al.'s canonical paper analyzing the FDMA 2012 BuzzCity mobile publisher click-fraud competition.
 
 ![web](image/alg_I.png) [MCCF: Multimodal and Contrastive Learning for Click Fraud (WWW '21)](https://arxiv.org/abs/2105.03567) - Contrastive-learning click-fraud detection architecture trained on Alibaba-scale advertising traffic.
+
+![web](image/alg_I.png) [Online Advertising Security: Issues, Taxonomy, and Future Directions (2020)](https://arxiv.org/abs/2006.03986) - Survey that taxonomises attacks on programmatic advertising systems and evaluates countermeasures across the ad stack.
 
 ![web](image/alg_I.png) [U.S. DOJ EDNY — Methbot / 3ve Indictment (2018)](https://www.justice.gov/usao-edny/pr/two-international-cybercriminal-rings-dismantled-and-eight-defendants-indicted-causing) - Federal indictment documenting the Methbot and 3ve ad-fraud botnet operations and tens of millions in losses.
 
@@ -389,7 +474,11 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![web](image/alg_I.png) [Chrome DevTools — Network Panel](https://developer.chrome.com/docs/devtools/network/) - Built-in browser request log and timing waterfall for isolating ad-serving endpoints and redirect chains.
 
+![github](image/alg_R.png) [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit) - Cross-platform HTTPS interception and debugging proxy for inspecting mobile SDK calls, redirect chains, and tracking beacons.
+
 ![github](image/alg_R.png) [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Scriptable TLS-capable intercepting proxy for inspecting mobile SDK calls, bid beacons, and redirect chains.
+
+![github](image/alg_R.png) [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root Android network monitor that captures per-app TLS traffic to verify SDK beacons and hidden ad requests.
 
 ![github](image/alg_R.png) [WebPageTest](https://github.com/catchpoint/WebPageTest) - Open-source waterfall analyzer capturing every ad request, third-party script, and visual filmstrip on a page.
 
@@ -397,11 +486,15 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ### Browser Extensions
 
+![github](image/alg_R.png) [AdNauseam](https://github.com/dhowe/AdNauseam) - Research browser extension that clicks and hides ads, generating noise against ad profiles while logging tracking requests.
+
 ![github](image/alg_R.png) [Adstxter](https://github.com/lusitdev/Adstxter) - Lightweight Chrome extension for quickly spotting missing or mismatched sellers in publisher ads.txt files.
 
 ![github](image/alg_R.png) [Lines Checker (ads.txt / sellers.json)](https://github.com/Chrome-Extensions-labs/Lines-Checker-ads.txt-app-ads.txt-sellers.json) - Chrome MV3 extension validating ads.txt/app-ads.txt lines, cross-checking sellers.json, and flagging OWNERDOMAIN mismatches.
 
 ![web](image/alg_I.png) [Meta Pixel Helper](https://developers.facebook.com/docs/meta-pixel/support/pixel-helper/) - Official Meta diagnostic browser extension for auditing Pixel and Conversions API events on live pages.
+
+![github](image/alg_R.png) [Professor Prebid](https://github.com/prebid/professor-prebid) - Chrome extension that inspects Prebid.js auctions, bid responses, and configuration on live publisher pages.
 
 ![github](image/alg_R.png) [Sellers.json Inspector](https://github.com/Chrome-Extensions-labs/Sellers.json-Inspector) - Chrome extension parsing and analyzing sellers.json files with ads.txt cross-verification and export support.
 
@@ -419,6 +512,8 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![github](image/alg_R.png) [blacklight-query](https://github.com/the-markup/blacklight-query) - Command-line tool for running Blacklight scans across large domain lists and aggregating findings.
 
+![github](image/alg_R.png) [OpenWPM](https://github.com/openwpm/OpenWPM) - Research browser automation platform for crawling sites at scale and recording ad, tracker, and script behaviour.
+
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
 
 ## Books, Talks & Blogs
@@ -429,11 +524,15 @@ A curated collection of open-source tools, verification platforms, supply chain 
 
 ![web](image/alg_I.png) [Black Hat USA 2013 — Million Browser Botnet](https://www.securityweek.com/researchers-demonstrate-million-browser-botnet-concept-built-legitimate-ad-networks/) - Jeremiah Grossman and Matt Johansen's demonstration showing how cheap ad-network buys can build browser botnets.
 
+![web](image/alg_I.png) [Fraud Prevention in Online Digital Advertising (Springer, 2017)](https://link.springer.com/book/10.1007/978-3-319-56793-8) - Book-length treatment of ad-fraud taxonomies and prevention mechanisms across search, display, and mobile advertising.
+
 ![web](image/alg_I.png) [Subprime Attention Crisis — Tim Hwang](https://books.google.com/books/about/Subprime_Attention_Crisis.html?id=iyPQDwAAQBAJ) - Book examining structural mispricing, opacity, and systemic fragility in programmatic advertising markets.
 
 ### Blogs, Engineering Notes & Newsrooms
 
 ![web](image/alg_I.png) [AdExchanger](https://www.adexchanger.com/) - Trade publication covering programmatic ad fraud, MFA arbitrage, verification audits, and regulatory enforcement.
+
+![web](image/alg_I.png) [AdMonsters](https://www.admonsters.com/) - Ad-operations publication covering ad-server workflow, yield management, and verification operations practice.
 
 ![web](image/alg_I.png) [Digiday — WTF are Made-for-Advertising Sites?](https://digiday.com/marketing/wtf-are-made-for-advertising-sites-mfas/) - Concise explainer detailing MFA arbitrage mechanics and why high-volume ad clutter evades standard verification.
 
