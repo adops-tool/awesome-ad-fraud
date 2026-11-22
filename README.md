@@ -1,3 +1,5 @@
+<div align="center">
+
 [![awesome-ad-fraud](image/awesome-ad-fraud.png)](https://github.com/adops-tool/awesome-ad-fraud/pulls)
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
@@ -7,6 +9,10 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
 
 A curated collection of open-source tools, verification platforms, supply chain utilities, datasets, technical standards, and primary research for detecting, measuring, and eliminating ad fraud and invalid traffic (IVT) across the digital advertising ecosystem.
+
+</div>
+
+> Each entry is marked with the kind of resource it is: ![github](image/alg_R.png) open-source repository, ![web](image/alg_I.png) documentation, specification, or hosted tool. Dormant and archived projects are kept when they still explain an architecture — they are labeled as such.
 
 ## Contents
 
